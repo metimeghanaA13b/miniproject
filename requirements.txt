@@ -1,0 +1,7 @@
+speechrecognition
+numpy
+matplotlib
+easygui
+pillow
+tk
+googletrans==4.0.0-rc1
